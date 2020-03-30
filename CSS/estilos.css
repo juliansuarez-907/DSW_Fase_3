@@ -1,0 +1,67 @@
+
+
+aside
+{
+	background-color: dodgerblue;
+	display: inline-block;
+	max-width: 10%;	
+	
+	  }
+
+
+
+	  .presentation
+	  {
+		margin: inherit;
+		background-color: gray;
+		  display: inline-block;	
+		  max-width: 100%;
+		  
+			}
+
+.header_logo {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+	
+	
+}
+
+.header_text {
+  display: table-cell;
+    vertical-align: middle;
+  text-align: center;
+  font-size: 2rem;
+  
+}
+
+nav {
+	float: center;
+	background: #eb6208;
+	text-align: center;
+	
+}
+	nav ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		padding-right: 20px;
+	}
+	
+		nav ul li {
+			display: inline-block;
+			line-height: 30px;
+		}
+			
+			nav ul li a {
+				display: block;
+				padding: 0 40px;
+				text-decoration: none;
+			}
+			
+				nav ul li a:hover {
+					background: #0b76a6;
+				}
+	
+
+
