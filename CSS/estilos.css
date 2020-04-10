@@ -212,7 +212,32 @@ aside
             
             }
 
+.articulo2        
+{
+    height: 80%;
+    width: 96%;
+    margin: 1em;
+    border-radius: 1em;
+    background-color: aliceblue;
+    text-decoration: none; color: black;
+   
 
+    
+    }
+
+
+        footer{
+            background: #000;
+            clear: both;
+            border-radius: 1em;
+            text-align: center;
+    height: 90px;
+    padding: 20px;
+    
+            
+    
+            
+            }
 
 
 
