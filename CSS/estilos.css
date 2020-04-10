@@ -48,7 +48,7 @@ display: block;
   background:;
 list-style: none;
 height: 60%;
-margin-top: 35%;
+margin-top: 5%;
 }
 #mainn ul li{
  
@@ -198,7 +198,14 @@ aside
     text-align: center;
    }
 
-
+.redes{
+  margin-left: 40%;
+}
+footer img{
+  height: 35px;
+  width: 35px;
+  margin-left: 5%;
+}
 
 
 
